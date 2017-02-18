@@ -1,0 +1,30 @@
+*/.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# dependencies
+node_modules
+.idea
+
+# testing
+coverage
+
+# production
+build
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+
+
+node_modules
+npm-debug.log
+book_img
+book_video(and gif)
