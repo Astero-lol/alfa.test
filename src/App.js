@@ -33,7 +33,7 @@ class App extends Component {
 		console.log(nextProps);
 		if (nextProps.user.status === 'success') {
 			document.querySelectorAll('.form__field').forEach(function (item) {
-				item.value = ''
+				item.value = '' // Не уверен что это законно :)
 			});
 		}
 	}
